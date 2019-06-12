@@ -1,6 +1,10 @@
 package examengithub;
 
-
+/**
+ * 
+ * @author d18sobum
+ *
+ */
 public class Gato {
 
 		private String maulla;
