@@ -1,12 +1,17 @@
+package examengithub;
+
 
 public class Gato {
+
+		private String maulla;
 
 		protected Gato() {
 				
 	}
 
 	void maullar() {
-		System.out.println("Miau");
+		maulla = "Miau";
+		System.out.println(maulla);
 	}
 
 }
